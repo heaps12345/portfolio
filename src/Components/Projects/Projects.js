@@ -1,6 +1,6 @@
 import React from 'react';
 import './Projects.css';
-import clonebnbBg from './images/jungle.jpg';
+import bookeoBg from './images/jungle.jpg';
 import triviaAppBg from './images/triviaAppBg.png';
 import faceFinderBg from './images/faceFinderBg.png';
 import weatherBg from './images/weather.png';
@@ -13,7 +13,7 @@ const Projects = () => {
         <figure className="effect">
           <div className="project-logo-container"> </div>
           <div className="background-container">
-            <img className="image-background" src={clonebnbBg} alt="project" />
+            <img className="image-background" src={bookeoBg} alt="project" />
           </div>
           <figcaption>
             <div className="bottom-container">
@@ -22,7 +22,7 @@ const Projects = () => {
                   className="project-button"
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://github.com/heaps12345/clonebnb"
+                  href="https://github.com/heaps12345/bookeo"
                 >
                   Github
                 </a>
@@ -30,14 +30,14 @@ const Projects = () => {
                   className="project-button"
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://clonebnb.herokuapp.com/"
+                  href="https://bookeo.herokuapp.com/"
                 >
                   Website
                 </a>
               </div>
             </div>
             <p className="description">
-              <span className="projects-title">Clonebnb</span> Built using React, Redux, React Router, Google Maps API,
+              <span className="projects-title">Bookeo</span> Built using React, Redux, React Router, Google Maps API,
               Amazon S3, Node.js, and PostgreSQL.
             </p>
           </figcaption>
