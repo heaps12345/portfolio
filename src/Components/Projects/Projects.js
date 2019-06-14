@@ -93,7 +93,7 @@ const Projects = () => {
                   className="project-button"
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://trivia-app-1.netlify.com"
+                  href="https://heaps12345.github.io/triviaApp/"
                 >
                   Website
                 </a>
