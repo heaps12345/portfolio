@@ -30,7 +30,7 @@ const Projects = () => {
                   className="project-button"
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://bookeo.herokuapp.com/"
+                  href="https://bookeo.herokuapp.com/rentals"
                 >
                   Website
                 </a>
