@@ -20,7 +20,7 @@ class Skills extends React.Component {
           <h1 className="section-header">About me</h1>
           <p>
             From the moment I produced "Hello World" in the console of my first app, I knew i was hooked into the world
-            of Web Developement. But web development has never been "just a job" for me, it's offered an engaging
+            of Web Development. But web development has never been "just a job" for me, it's offered an engaging
             challenge to continually learn and improve my skills. What started with a "Hello World" has become a
             full-fledged passion that only gets more exciting as the years go by. You can find me on{' '}
             <a href="https://www.linkedin.com/in/dustinheaps/" target="_blank" rel="noopener noreferrer">
