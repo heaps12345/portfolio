@@ -38,7 +38,7 @@ const SkillsAside = () => {
       </li>
       <li style={{ borderRadius: '0 0 8px 0' }}>
         <i className="fas fa-database" />
-        <p>Express</p>
+        <p>Firebase</p>
       </li>
     </ul>
   );
