@@ -173,7 +173,7 @@ figure:hover p.description {
 
 @media only screen and (max-width: 600px) {
   figure.effect .image-background {
-    opacity: 0.3;
+    opacity: 0.2;
     -webkit-transform: scale(1);
     transform: scale(1);
   }
@@ -209,5 +209,9 @@ figure:hover p.description {
   .grid figure {
     min-width: 280px;
     min-height: 250px;
+  }
+  .projects-title {
+    font-size: 1.3em;
+    top: -60%;
   }
 }

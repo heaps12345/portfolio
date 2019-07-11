@@ -233,11 +233,35 @@ section h1 {
     justify-content: center;
   }
 
+  .standard-button {
+    margin-bottom: -31px;
+    margin-top: 24px;
+    font-size: 0.8em;
+    padding: 1em;
+  }
+
   .header-name {
-    font-size: 2.3rem;
+    font-size: 2rem;
   }
 
   .subheader {
-    font-size: 1.8rem;
+    font-size: 1.5rem;
+    margin-top: 0;
+  }
+
+  section h1 {
+    font-size: 2.5em;
+  }
+  .skills-content {
+    margin-top: 75px;
+  }
+}
+@media only screen and (max-width: 400px) {
+  .left-content p {
+    font-size: 12.5px;
+  }
+
+  .skills-content {
+    margin-top: 65px;
   }
 }
