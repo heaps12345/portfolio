@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "ae87c1df53f909d9652a",
+    "revision": "c4907d447e57e4a815ed",
     "url": "/portfolio/static/css/main.4e0aadaf.chunk.css"
   },
   {
-    "revision": "ae87c1df53f909d9652a",
-    "url": "/portfolio/static/js/main.2e294184.chunk.js"
+    "revision": "c4907d447e57e4a815ed",
+    "url": "/portfolio/static/js/main.76f9a83b.chunk.js"
   },
   {
     "revision": "53ebc025fca807d4dbea",
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/weather.853119dd.png"
   },
   {
-    "revision": "063af3aeb774585cc214a4411e1806dc",
-    "url": "/portfolio/static/media/resume2019.063af3ae.pdf"
+    "revision": "6c7f08a0274c187904b873e47985e7a7",
+    "url": "/portfolio/static/media/resume2019.6c7f08a0.pdf"
   },
   {
     "revision": "f185e62fa6884b5b3fc4ddaa553b0e81",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/logo-green.2527af91.svg"
   },
   {
-    "revision": "296b98f65b03099a56c95fbf00caa23a",
+    "revision": "aa9d859a8d7ec19c0da39583a4344aca",
     "url": "/portfolio/index.html"
   }
 ];
