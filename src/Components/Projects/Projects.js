@@ -39,7 +39,7 @@ const Projects = () => {
             </div>
             <p className="description">
               <span className="projects-title">CRWN Clothing</span> Built using React, Redux, React-Router,
-              Redux-Persist, Redux-Saga and Firebase.
+              Redux-Persist, Redux-Saga, and Firebase.
             </p>
           </figcaption>
         </figure>
