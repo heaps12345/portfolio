@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "848a00bd4613a91ab9c9",
+    "revision": "0a9261c890f3c730ba90",
     "url": "/portfolio/static/css/main.4e0aadaf.chunk.css"
   },
   {
-    "revision": "848a00bd4613a91ab9c9",
-    "url": "/portfolio/static/js/main.f8749351.chunk.js"
+    "revision": "0a9261c890f3c730ba90",
+    "url": "/portfolio/static/js/main.8dedbf65.chunk.js"
   },
   {
     "revision": "53ebc025fca807d4dbea",
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/hats.c11d6415.png"
   },
   {
-    "revision": "853119ddb0796e0b7f45691d28cc45a1",
-    "url": "/portfolio/static/media/weather.853119dd.png"
+    "revision": "c4bcf87d5a37c832c92f763f324c6285",
+    "url": "/portfolio/static/media/weather.c4bcf87d.png"
   },
   {
     "revision": "6c7f08a0274c187904b873e47985e7a7",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/logo-green.2527af91.svg"
   },
   {
-    "revision": "28e06059d1577aa658872b1238ec7d14",
+    "revision": "c59c81d59f2ceaca066b93534d09093a",
     "url": "/portfolio/index.html"
   }
 ];
